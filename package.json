@@ -4,7 +4,7 @@
   "description": "This is my first project. It is a landing page.",
   "main": "index.html",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {},
   "scripts": {
